@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="750" viewBox="0 0 600 750">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1b202b"/>
+      <stop offset="50%" stop-color="#11151d"/>
+      <stop offset="100%" stop-color="#0b0e14"/>
+    </linearGradient>
+    <linearGradient id="silver" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="50%" stop-color="#cfd6e0"/>
+      <stop offset="100%" stop-color="#8994a4"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="750" fill="url(#bg)"/>
+  <circle cx="300" cy="275" r="95" fill="#252c3a" stroke="url(#silver)" stroke-width="3"/>
+  <path d="M145 615 C145 480, 215 415, 300 415 C385 415, 455 480, 455 615" fill="#252c3a" stroke="url(#silver)" stroke-width="3"/>
+  <text x="300" y="685" text-anchor="middle" fill="#e5ebf2" font-family="Arial, sans-serif" font-size="24" font-weight="bold">Ahmed Moumen</text>
+  <text x="300" y="718" text-anchor="middle" fill="#9aa4b2" font-family="monospace" font-size="15">Junior Front-End Developer</text>
+</svg>
